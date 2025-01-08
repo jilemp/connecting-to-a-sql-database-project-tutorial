@@ -17,7 +17,7 @@ A continuación, revisa el contenido del archivo `./.env` y sigue los pasos que 
 
 > NOTA: Recuerda revisar la información del fichero `./.env` para obtener el `username` y el `db_name`.
 
-¡Cuanto estés dentro de PSQL podrás crear tablas, hacer consultas, insertar, actualizar o eliminar datos y mucho más!
+¡Cuando estés dentro de PSQL podrás crear tablas, hacer consultas, insertar, actualizar o eliminar datos y mucho más!
 
 ## Parte 2: Comprende la estructura de la plantilla de tu proyecto
 
